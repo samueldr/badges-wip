@@ -1805,8 +1805,7 @@
          style="stroke-width:0.24178103">Avatar working area... </flowPara></flowRoot>    <g
        id="g4380">
       <image
-         sodipodi:absref="/Users/samuel/Projects/nixos/nixcon/2018/badge/samueldr.1024.png"
-         xlink:href="samueldr.1024.png"
+         xlink:href="%IMAGE1%.png"
          mask="url(#mask4401)"
          y="405.55338"
          x="-589.58789"
