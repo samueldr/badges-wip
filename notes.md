@@ -1,5 +1,9 @@
 # Notes
 
+## Font
+
+ * Vegur (`nixpkgs.vegur`)
+
 ## What to replace?
 
  * `%NAME0%` → full names
