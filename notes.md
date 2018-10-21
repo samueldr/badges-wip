@@ -18,3 +18,9 @@ The indices go from one (1) to ten (10); yes, I'm mad.
 ```
 convert in.png -thumbnail 1024x1024^ -gravity center -extent 1024x1024 out.1024.png
 ```
+
+## Exporting
+
+```
+inkscape --export-pdf=out.pdf badge-herma-9011.svg
+```
